@@ -28,3 +28,10 @@ print(float(number))
 print(int(second))
 
 
+#sets - unordered, mutable collections of unique items. Enclosed in curly braces
+unique_numbers = {1,2,3,4} # Will store{1,2,3,4}
+
+
+
+
+
